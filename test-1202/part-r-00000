@@ -1,0 +1,13 @@
+flume#storm	63426
+hadoop#hadoop	63426
+hadoop#hive	63426
+hello#flume	63426
+hello#hello	53662
+hello#world	63426
+hive#kafka	63426
+hive#oozie	48783
+hive#ooziehello	4878
+hive#ooziehello#hello	4887
+hive#ooziehellohello#hello	4878
+world#world	63427
+world#worldhello#hello	2

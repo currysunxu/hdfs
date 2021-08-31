@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="cleanRedisCache">
+    <output-path>$USER_HOME$/Desktop/HF_Automation</output-path>
+    <root id="archive" name="cleanRedisCache.jar">
+      <element id="directory" name="utils" />
+      <element id="file-copy" path="$PROJECT_DIR$/target/classes/utils/BaseInfo.class" />
+      <element id="file-copy" path="$PROJECT_DIR$/target/classes/utils/RedisDBHelper.class" />
+    </root>
+  </artifact>
+</component>
